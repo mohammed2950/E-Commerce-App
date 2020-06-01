@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "797924666966",
+    "firebase_url": "https://e-commerce-app-b4d45.firebaseio.com",
+    "project_id": "e-commerce-app-b4d45",
+    "storage_bucket": "e-commerce-app-b4d45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797924666966:android:d5d03622c90d80b43655f7",
+        "android_client_info": {
+          "package_name": "com.arifali.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797924666966-q913e4do6fpiduuu7hsg1aj6mah5fl32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arifali.e_commerce_app",
+            "certificate_hash": "91b0a39d7e679f33d56155b9f107907e842ac940"
+          }
+        },
+        {
+          "client_id": "797924666966-l4v5fm5kbafajbhalfq7v2i28pl7dkfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rVDL3LoRuQSStwpuScsOavmPDN3kgIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797924666966-l4v5fm5kbafajbhalfq7v2i28pl7dkfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
